@@ -81,7 +81,7 @@ p {
 }
 
 #navbar {
-  background: #ea7d7f;
+  background: transparent;
 }
 #navbar .nav-link {
   color: white;
@@ -681,6 +681,7 @@ header #header_type {
       -ms-flex-align: center;
           align-items: center;
   width: 300px;
+  font-family: "Signika Negative", sans-serif;
 }
 #section04 .view-more .moreitem {
   font-size: 1.5rem;

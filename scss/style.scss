@@ -127,7 +127,7 @@ p {
 // 導覽列
 #navbar {
 
-  background: $primaryColor;
+  background: transparent;
 
   .nav-link {
     color: white;
@@ -740,6 +740,7 @@ header {
     flex-direction: column;
     align-items: center;
     width: 300px;
+    font-family: "Signika Negative", sans-serif;
 
     .moreitem {
       font-size: 1.5rem;
