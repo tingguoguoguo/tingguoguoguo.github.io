@@ -668,6 +668,15 @@ header #header_type {
     margin-bottom: 5rem;
   }
 }
+#section04 .hr {
+  width: 300px;
+  height: 60px;
+}
+@media (min-width: 768px) {
+  #section04 .hr {
+    display: none;
+  }
+}
 #section04 .view-more {
   font-size: 1.2rem;
   display: -webkit-box;
